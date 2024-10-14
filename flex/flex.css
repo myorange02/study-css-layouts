@@ -1,0 +1,58 @@
+body, html {
+    height: 100%;
+}
+
+.container {
+    background: beige;
+    height: 100vh;
+    display: flex; /* 너 컨테이너 박스야*/
+    flex-direction: row; /* row & column (row-reverse & column-reverse) */
+}
+
+
+.item {
+    width: 40px;
+    height: 40px;
+}
+
+/* Color Tool 다양한 색 이용 가능*/
+
+.item1{
+    background-color: #ef9a9a;
+}
+
+.item2{
+    background-color: #f48fb1;
+}
+
+.item3{
+    background-color: #ce93d8;
+}
+
+.item4{
+    background-color: #b39ddb;
+}
+
+.item5{
+    background-color: #90caf9;
+}
+
+.item6{
+    background-color: #a5d6a7;
+}
+
+.item7{
+    background-color: #e6ee9c;
+}
+
+.item8{
+    background-color: #fff59d;
+}
+
+.item9{
+    background-color: #ffcc80;
+}
+
+.item10{
+    background-color: #ffab91;
+}
